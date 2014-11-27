@@ -2,7 +2,7 @@
 "color scheme wombat256
 set t_Co=256
 syntax on
-
+set background=dark
 " Color specifications. Change them as you would like.
 "term--B&W terminal  cterm--color terminal
 hi Normal										ctermfg=252     	ctermbg=black
