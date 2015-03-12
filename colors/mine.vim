@@ -2,10 +2,10 @@
 "color scheme wombat256
 set t_Co=256
 syntax on
-"set background=dark
+set background=dark
 " Color specifications. Change them as you would like.
 "term--B&W terminal  cterm--color terminal
-hi Normal										ctermfg=251     	ctermbg=235
+hi Normal										ctermfg=251     	ctermbg=233
 hi SpecialKey 	term=bold 			cterm=bold 	ctermfg=darkred 
 hi Nontext		term=bold 			cterm=bold	ctermfg=white	
 hi Directory 	term=bold 			cterm=bold 	ctermfg=brown 
@@ -21,16 +21,16 @@ hi Title 		term=bold 			cterm=bold 	ctermfg=darkmagenta
 hi Visual 		term=reverse 		cterm=reverse 
 hi WarningMsg 	term=standout 		cterm=bold 	ctermfg=darkblue 
 
-hi Comment		term=none 			cterm=bold	ctermfg=70 			ctermbg=235
+hi Comment		term=none 			cterm=bold	ctermfg=70 			ctermbg=233
 hi Constant		term=underline 		cterm=bold	ctermfg=105
-hi Special		term=bold 			cterm=none	ctermfg=203 		ctermbg=235
+hi Special		term=bold 			cterm=none	ctermfg=203 		ctermbg=233
 hi Identifier	term=underline  	cterm=none	ctermfg=brown	
 hi Statement	term=bold			cterm=bold 	ctermfg=173
 hi Type			term=underline		cterm=none 	ctermfg=169
 "hi Statement	term=bold			cterm=bold 	ctermfg=126
 hi PreProc		term=underline 					ctermfg=brown
-hi Error 		term=reverse 					ctermfg=darkcyan   ctermbg=235
-hi Todo 		term=standout 					ctermfg=235 	   ctermbg=darkcyan
+hi Error 		term=reverse 					ctermfg=darkcyan   ctermbg=233
+hi Todo 		term=standout 					ctermfg=233 	   ctermbg=darkcyan
 hi String 		term=none 						ctermfg=161
 hi Function 						cterm=none  ctermfg=38
 hi Operator 									ctermfg=white
