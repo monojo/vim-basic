@@ -5,7 +5,7 @@ syntax on
 set background=dark
 " Color specifications. Change them as you would like.
 "term--B&W terminal  cterm--color terminal
-hi Normal										ctermfg=251     	ctermbg=233
+hi Normal										ctermfg=251     	ctermbg=black
 hi SpecialKey 	term=bold 			cterm=bold 	ctermfg=darkred 
 hi Nontext		term=bold 			cterm=bold	ctermfg=white	
 hi Directory 	term=bold 			cterm=bold 	ctermfg=brown 
