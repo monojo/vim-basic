@@ -21,7 +21,7 @@ hi Title 		term=bold 			cterm=bold 	ctermfg=darkmagenta
 hi Visual 		term=reverse 		cterm=reverse ctermbg=darkgrey
 hi WarningMsg 	term=standout 		cterm=bold 	ctermfg=darkblue 
 
-hi Comment		term=none 			cterm=bold	ctermfg=70 			ctermbg=233
+hi Comment		term=none 			cterm=bold	ctermfg=70 			ctermbg=black
 hi Constant		term=underline 		cterm=bold	ctermfg=105
 hi Special		term=bold 			cterm=none	ctermfg=203 		ctermbg=233
 hi Identifier	term=underline  	cterm=none	ctermfg=brown	
